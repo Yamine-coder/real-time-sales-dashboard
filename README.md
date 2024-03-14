@@ -53,6 +53,11 @@ Chaque transaction contient :
 
 Les messages sont produits automatiquement et envoyés dans un topic Kafka, traités en temps réel par Spark, puis stockés dans PostgreSQL.
 
+## 🎬 Démonstration vidéo
+
+📹 [Clique ici pour voir la démonstration en vidéo](./images/demo-real-time-dashboard.mp4)
+
+
 ## 👤 Auteur
 
 **Yamine Moussaoui**  
