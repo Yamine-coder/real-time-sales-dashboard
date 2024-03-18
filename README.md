@@ -55,7 +55,7 @@ Les messages sont produits automatiquement et envoyés dans un topic Kafka, trai
 
 ## 🎥 Démonstration vidéo
 
-<img src="./images/Capture real-time-dashboard" alt="Aperçu de la vidéo" width="700"/>
+[![Aperçu de la vidéo](images/Capture real-time-dashboard.png) alt="Aperçu de la vidéo" width="700"/>
 
 > 📽️ [Clique ici pour visionner la vidéo complète](./images/demo-real-time-dashboard.mp4)
 
